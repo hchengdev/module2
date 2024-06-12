@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access_modifier - static/Access_modifier - static.iml" filepath="$PROJECT_DIR$/Access_modifier - static/Access_modifier - static.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/OopJava.iml" filepath="$PROJECT_DIR$/OopJava/OopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OopJava/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" filepath="$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
