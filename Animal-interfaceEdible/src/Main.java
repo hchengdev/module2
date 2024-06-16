@@ -3,9 +3,7 @@ import Fruit.Fruit;
 import animal.Animal;
 import animal.Chicken;
 import animal.Tiger;
-import Fruit.Fruit;
 import Fruit.Orange;
-import Fruit.Apple;
 
 public class Main {
     public static void main(String[] args) {

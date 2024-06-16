@@ -1,40 +1,21 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
-        Shape shape = new Shape();
-        System.out.println(shape);
+        ComparableCircle[] circles = new ComparableCircle[3];
+        circles[0] = new ComparableCircle(3.4);
+        circles[1] = new ComparableCircle();
+        circles[2] = new ComparableCircle( "indigo", false, 3.5);
 
-        shape = new Shape("red", false);
-        System.out.println(shape);
+        System.out.println("Pre-sorted array:");
+        for (ComparableCircle circle : circles) {
+            System.out.println(circle);
+        }
 
+        Arrays.sort(circles);
 
-        Circle circle = new Circle();
-        System.out.println(circle);
-
-        circle = new Circle(3.5);
-        System.out.println(circle);
-
-        circle = new Circle( "indigo", false, 3.5);
-        System.out.println(circle);
-
-        Rectangle rectangle = new Rectangle();
-        System.out.println(rectangle);
-
-        rectangle = new Rectangle(2.3, 5.8);
-        System.out.println(rectangle);
-
-        rectangle = new Rectangle("orange", true, 2.5, 3.8);
-        System.out.println(rectangle);
-
-
-        Square square = new Square();
-        System.out.println(square);
-
-        square = new Square(2.3);
-        System.out.println(square);
-
-        square = new Square("yellow",true, 5.8  );
-        System.out.println(square);
+        System.out.println("Sorted array:");
+        for (ComparableCircle circle : circles) {
+            System.out.println(circle);
+        }
     }
 }
