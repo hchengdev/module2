@@ -1,13 +1,16 @@
-public class Circle extends Shape {
-    private double radius;
 
-    public Circle() {}
+
+public class Circle extends Shape implements Resizeable {
+    private double radius = 1.0;
+
+    public Circle() {
+    }
 
     public Circle(double radius) {
         this.radius = radius;
     }
 
-    public Circle(String color, boolean filled, double radius) {
+    public Circle(double radius, String color, boolean filled) {
         super(color, filled);
         this.radius = radius;
     }
@@ -34,5 +37,9 @@ public class Circle extends Shape {
                 + getRadius()
                 + ", which is a subclass of "
                 + super.toString();
+    }
+
+    public void resize(double factor) {
+        this.radius *= factor;
     }
 }

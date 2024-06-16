@@ -1,20 +1,21 @@
 import java.util.Arrays;
+import java.util.Comparator;
 public class Main {
     public static void main(String[] args) {
-        ComparableCircle[] circles = new ComparableCircle[3];
-        circles[0] = new ComparableCircle(3.4);
-        circles[1] = new ComparableCircle();
-        circles[2] = new ComparableCircle( "indigo", false, 3.5);
+        Circle[] circles = new Circle[3];
+        circles[0] = new Circle(3.4);
+        circles[1] = new Circle();
+        circles[2] = new Circle( "indigo", false, 3.5);
 
         System.out.println("Pre-sorted array:");
-        for (ComparableCircle circle : circles) {
+        for (Circle circle : circles) {
             System.out.println(circle);
         }
-
-        Arrays.sort(circles);
+        Comparator circleComparator = new ComparableCircle();
+        Arrays.sort(circles, circleComparator);
 
         System.out.println("Sorted array:");
-        for (ComparableCircle circle : circles) {
+        for (Circle circle : circles) {
             System.out.println(circle);
         }
     }
