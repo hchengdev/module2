@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16e04f99-24d1-44af-8099-23da97a94ed6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DemoCleanCode/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoCleanCode/src/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OopJava/HinhChuNhat/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OopJava/HinhChuNhat/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/module2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DemoCleanCode/DemoCleanCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyNv/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyNv/src/QuanLyNv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loopJava/loopJava" beforeDir="false" afterPath="$PROJECT_DIR$/loopJava/loopJava" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loopJava/loopJava/src/SoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/loopJava/loopJava/src/SoNguyenTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../arrayJava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arrayJava/out/production/arrayJava/ReveseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../arrayJava/out/production/arrayJava/ReveseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/.idea/kt_thuc-hanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/cau1cau.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/cau2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/cau3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kt_thuc-hanh/cau4.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hit4LuoVqueMUdU8XTTOa2VmoQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main .executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2/DemoCleanCode/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main ">
+    <configuration name="Main " type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Animal-interfaceEdible" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Shape" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Resizeable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Colorable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main " />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16e04f99-24d1-44af-8099-23da97a94ed6" name="Changes" comment="" />
+      <created>1718088533777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718088533777</updated>
+      <workItem from="1718088534781" duration="21327000" />
+      <workItem from="1718175714668" duration="1334000" />
+      <workItem from="1718178378122" duration="5927000" />
+      <workItem from="1718243669664" duration="2466000" />
+      <workItem from="1718248446749" duration="17308000" />
+      <workItem from="1718330928952" duration="12099000" />
+      <workItem from="1718429149437" duration="1594000" />
+      <workItem from="1718453576053" duration="26626000" />
+      <workItem from="1718586238577" duration="7770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OopJava/HinhChuNhat/src/Rectangle.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OopJava/StopWatch/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Comparable/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Employee Management/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
