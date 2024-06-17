@@ -8,11 +8,11 @@ public class CalculatorTest {
     @DisplayName("Testing addition")
     void testCalculateAdd() {
         int firstOpernd = 1;
-        int b = 1;
-        char o = '+';
+        int secondOperand = 1;
+        char operator = '+';
         int expected = 2;
 
-        int result = Calculator.calculate(firstOpernd, b, o);
+        int result = Calculator.calculate(firstOpernd, secondOperand, operator);
         assertEquals(expected, result);
     }
 
@@ -20,11 +20,11 @@ public class CalculatorTest {
     @DisplayName("Testing subtraction")
     void testCalculateSub() {
         int firstOperand = 2;
-        int b = 1;
-        char o = '-';
+        int secondOperand = 1;
+        char operator = '-';
         int expected = 1;
 
-        int result = Calculator.calculate(firstOperand, b, o);
+        int result = Calculator.calculate(firstOperand, secondOperand, operator);
         assertEquals(expected, result);
     }
 
