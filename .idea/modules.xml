@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/Abs/Abs.iml" filepath="$PROJECT_DIR$/TestCasee/Abs/Abs.iml" />
       <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access_modifier - static/Access_modifier - static.iml" filepath="$PROJECT_DIR$/Access_modifier - static/Access_modifier - static.iml" />
       <module fileurl="file://$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" filepath="$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" />
@@ -18,7 +19,6 @@
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" filepath="$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sqrt/Sqrt.iml" filepath="$PROJECT_DIR$/Sqrt/Sqrt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticProperty/StaticProperty.iml" filepath="$PROJECT_DIR$/StaticProperty/StaticProperty.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" />
