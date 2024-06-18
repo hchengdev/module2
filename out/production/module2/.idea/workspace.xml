@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e04f99-24d1-44af-8099-23da97a94ed6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DemoCleanCode/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoCleanCode/src/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/DeliveryEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/FactoryEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/OfficeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/manager/EmployeeManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/JAVA.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/User.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OopJava/HinhChuNhat/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OopJava/HinhChuNhat/src/Rectangle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DemoCleanCode/DemoCleanCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanLyNv/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyNv/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyNv/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QuanLyNv/src/QuanLyNv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loopJava/loopJava" beforeDir="false" afterPath="$PROJECT_DIR$/loopJava/loopJava" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loopJava/loopJava/src/SoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/loopJava/loopJava/src/SoNguyenTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apj-2023-junit-calculator/src/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apj-2023-junit-calculator/src/SimpleCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../arrayJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../arrayJava/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../arrayJava/out/production/arrayJava/ReveseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../arrayJava/out/production/arrayJava/ReveseArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
@@ -40,18 +42,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package.json" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apj-2023-junit-calculator" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2hit4LuoVqueMUdU8XTTOa2VmoQ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -60,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Login.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
@@ -67,7 +71,11 @@
     "Application.Main (5).executor": "Run",
     "Application.Main .executor": "Run",
     "Application.Main.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.FizzBuzzTest.executor": "Run",
+    "JUnit.FizzBuzzTest.testFizz3.executor": "Run",
+    "JUnit.TennisGameTest.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -81,61 +89,86 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2/DemoCleanCode/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2/DmCleanCode2/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CleanCode" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main ">
-    <configuration name="Main " type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="JUnit.SimpleCalculatorTest.testAdd1And0">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="login.Login" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Animal-interfaceEdible" />
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoCleanCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Shape" />
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DmCleanCode2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Resizeable" />
+    <configuration name="SimpleCalculatorTest.testAdd1And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="testAdd1And0" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Colorable" />
+    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codegym" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.TennisGameTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main " />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.testAdd1And0" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="JUnit.TennisGameTest" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.FizzBuzzTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +196,7 @@
       <workItem from="1718330928952" duration="12099000" />
       <workItem from="1718429149437" duration="1594000" />
       <workItem from="1718453576053" duration="26626000" />
-      <workItem from="1718586238577" duration="7770000" />
+      <workItem from="1718586238577" duration="41774000" />
     </task>
     <servers />
   </component>
