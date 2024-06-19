@@ -10,7 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyList/MyList.iml" filepath="$PROJECT_DIR$/MyList/MyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/OopJava.iml" filepath="$PROJECT_DIR$/OopJava/OopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" filepath="$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" />
@@ -25,7 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" filepath="$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TriangleClassifier/TriangleClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
     </modules>

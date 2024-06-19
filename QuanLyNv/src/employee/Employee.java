@@ -13,6 +13,10 @@ public abstract class Employee {
         this.position = position;
     }
 
+    public Employee(int id, String name) {
+    }
+
+
     public int getId() {
         return id;
     }

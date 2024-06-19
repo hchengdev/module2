@@ -8,6 +8,10 @@ public class DeliveryEmployee extends Employee {
         this.transport = transport;
     }
 
+    public DeliveryEmployee(int id, String name) {
+        super(id, name, null, null);
+    }
+
     public String getTransport() {
         return transport;
     }

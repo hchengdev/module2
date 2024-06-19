@@ -10,6 +10,10 @@ public class FactoryEmployee extends Employee {
         this.type = type;
     }
 
+    public FactoryEmployee(int id, String name) {
+        super(id, name, null, null);
+    }
+
     public int getFactoryID() {
         return factoryID;
     }

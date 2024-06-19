@@ -1,4 +1,7 @@
+import employee.DeliveryEmployee;
 import employee.Employee;
+import employee.FactoryEmployee;
+import employee.OfficeEmployee;
 import manager.EmployeeManager;
 
 import java.util.Scanner;
@@ -59,10 +62,47 @@ public class Main {
     public static void handleAdd(Scanner sc, EmployeeManager em) {
         printAddMenu();
         int choice = Integer.parseInt(sc.nextLine());
+        if (choice < 1 || choice > 3) {
+            return;
+        }
+        System.out.println("Nhap id:");
+        int id = Integer.parseInt(sc.nextLine());
+        System.out.println("Nhap ten: ");
+        String name = sc.nextLine();
         switch (choice) {
             case 1:
-
+                Employee newOfficeEmploy  = new OfficeEmployee(id, name);
+                em.addEmployee(newOfficeEmploy);
+            case 2:
+                Employee newFactoryEmploy = new FactoryEmployee(id, name);
+                em.addEmployee(newFactoryEmploy);
+            case 3:
+                Employee newDeliveryEmploy = new DeliveryEmployee(id, name);
+                em.addEmployee(newDeliveryEmploy);
         }
     }
+    public static void handleEdit(Scanner sc, EmployeeManager em) {
+        System.out.println("Nhap id:");
+        int id = Integer.parseInt(sc.nextLine());
+        Employee employee = em.getEmployeeById(id);
 
+        if (em == null) {
+            System.out.println("Invalid id");
+            return;
+        }
+        System.out.println("Nhap ten moi:");
+        String newName = sc.nextLine();
+        employee.setName(newName);
+    }
+    public static void handleDelete(Scanner sc, EmployeeManager em) {
+        System.out.println("Nhap id:");
+        int id = Integer.parseInt(sc.nextLine());
+        Employee employee = em.getEmployeeById(id);
+
+        if (em == null) {
+            System.out.println("Invalid id");
+            return;
+        }
+        em.removeEmployee(employee);
+    }
 }
