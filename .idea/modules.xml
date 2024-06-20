@@ -12,7 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/DSA/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" filepath="$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" />
@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" filepath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" filepath="$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Queue/Queue.iml" filepath="$PROJECT_DIR$/DSAp2/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueP2/QueueP2.iml" filepath="$PROJECT_DIR$/QueueP2/QueueP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
