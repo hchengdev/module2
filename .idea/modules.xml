@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" filepath="$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/MyList/MyList.iml" filepath="$PROJECT_DIR$/DSA/MyList/MyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/DSAp2/MyStack/MyStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyStackP2/MyStackP2.iml" filepath="$PROJECT_DIR$/MyStackP2/MyStackP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/OopJava.iml" filepath="$PROJECT_DIR$/OopJava/OopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" filepath="$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" />
@@ -27,7 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" filepath="$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Queue/Queue.iml" filepath="$PROJECT_DIR$/DSAp2/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QueueP3/QueueP3.iml" filepath="$PROJECT_DIR$/QueueP3/QueueP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
