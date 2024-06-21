@@ -18,6 +18,7 @@ public class MyStackP2 {
         if(isEmpty()) {
             System.out.println("Stack is empty");
         }
+        return arr[index--];
     }
 
     public boolean isEmpty() {

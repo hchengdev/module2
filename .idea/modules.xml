@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Circle-Cylinder/Circle-Cylinder.iml" filepath="$PROJECT_DIR$/Circle-Cylinder/Circle-Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decimal/Decimal.iml" filepath="$PROJECT_DIR$/Decimal/Decimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" />
@@ -18,7 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" filepath="$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/MyList/MyList.iml" filepath="$PROJECT_DIR$/DSA/MyList/MyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/DSAp2/MyStack/MyStack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyStackP2/MyStackP2.iml" filepath="$PROJECT_DIR$/MyStackP2/MyStackP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/MyStackP2/MyStackP2.iml" filepath="$PROJECT_DIR$/DSAp2/MyStackP2/MyStackP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/OopJava.iml" filepath="$PROJECT_DIR$/OopJava/OopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" filepath="$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" />
