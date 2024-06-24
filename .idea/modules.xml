@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" filepath="$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/AraayList/AraayList.iml" filepath="$PROJECT_DIR$/DSA/AraayList/AraayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/ArrayList- LinkedList/ArrayList- LinkedList.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/ArrayList- LinkedList/ArrayList- LinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Bracket/Bracket.iml" filepath="$PROJECT_DIR$/DSAp2/Bracket/Bracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Circle-Cylinder/Circle-Cylinder.iml" filepath="$PROJECT_DIR$/Circle-Cylinder/Circle-Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortChar/SortChar.iml" filepath="$PROJECT_DIR$/SortChar/SortChar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticProperty/StaticProperty.iml" filepath="$PROJECT_DIR$/StaticProperty/StaticProperty.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" />
