@@ -25,18 +25,18 @@ public class Main {
 
     }
 
-    public static int binarySearch(String[] array, int left, int right, String value) {\
+    public static int binarySearch(String[] array, int left, int right, String value) {
         if (left > right) {
             return -1;
         }
         int mid = left + (left + right) / 2;
         int cmp = value.compareToIgnoreCase(array[mid]);
         if (cmp == 0) {
-            System.out.println(mid);
+            return mid;
         } else if (cmp < 0) {
-            binarySearch(array, left, mid - 1, value);
+            return binarySearch(array, left, mid - 1, value);
         } else {
-            binarySearch(array, left, mid + 1, value);
+            return binarySearch(array, left, mid + 1, value);
         }
     }
 }
