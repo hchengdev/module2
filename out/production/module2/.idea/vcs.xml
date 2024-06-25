@@ -5,7 +5,6 @@
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Introduction to Java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OopJava" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/apj-2023-junit-calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/loopJava/loopJava" vcs="Git" />
   </component>
 </project>

@@ -2,26 +2,53 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/Abs/Abs.iml" filepath="$PROJECT_DIR$/TestCasee/Abs/Abs.iml" />
       <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access_modifier - static/Access_modifier - static.iml" filepath="$PROJECT_DIR$/Access_modifier - static/Access_modifier - static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/AlgorithmComplexity/AlgorithmComplexity.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/AlgorithmComplexity/AlgorithmComplexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" filepath="$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/AraayList/AraayList.iml" filepath="$PROJECT_DIR$/DSA/AraayList/AraayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/ArrayList- LinkedList/ArrayList- LinkedList.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/ArrayList- LinkedList/ArrayList- LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/ArrayMax/ArrayMax.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/ArrayMax/ArrayMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/Bracket/Bracket.iml" filepath="$PROJECT_DIR$/DSAp2/Bracket/Bracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Circle-Cylinder/Circle-Cylinder.iml" filepath="$PROJECT_DIR$/Circle-Cylinder/Circle-Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" filepath="$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/HashMapHashSet/HashMapHashSet.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/HashMapHashSet/HashMapHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/DSA/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" filepath="$PROJECT_DIR$/DSAp2/LinkedListp2/LinkedListp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/MyList/MyList.iml" filepath="$PROJECT_DIR$/DSA/MyList/MyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/DSAp2/MyStack/MyStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/MyStackP2/MyStackP2.iml" filepath="$PROJECT_DIR$/DSAp2/MyStackP2/MyStackP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/TestCasee/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/OopJava.iml" filepath="$PROJECT_DIR$/OopJava/OopJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/DSAp2/Palindrome/Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" filepath="$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point2D-Point3D/Point2D-Point3D.iml" filepath="$PROJECT_DIR$/Point2D-Point3D/Point2D-Point3D.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OopJava/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" filepath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" filepath="$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/Queue/Queue.iml" filepath="$PROJECT_DIR$/DSAp2/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/SortChar/SortChar.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/SortChar/SortChar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticProperty/StaticProperty.iml" filepath="$PROJECT_DIR$/StaticProperty/StaticProperty.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Students/Students.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Students/Students.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" filepath="$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
     </modules>

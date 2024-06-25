@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e04f99-24d1-44af-8099-23da97a94ed6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/DeliveryEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/FactoryEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/employee/OfficeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyNv/src/manager/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/JAVA.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/User.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OopJava/HinhChuNhat/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../OopJava/HinhChuNhat/src/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanLyNv/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyNv/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuanLyNv/src/QuanLyNv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apj-2023-junit-calculator/src/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apj-2023-junit-calculator/src/SimpleCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../arrayJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../arrayJava/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../arrayJava/out/production/arrayJava/ReveseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../arrayJava/out/production/arrayJava/ReveseArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
@@ -41,14 +31,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package.json" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apj-2023-junit-calculator" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -71,17 +63,30 @@
     "Application.Main (5).executor": "Run",
     "Application.Main .executor": "Run",
     "Application.Main.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "true",
+    "Application.demo.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AbsoluteNumberCalculatorTest.executor": "Run",
+    "JUnit.AbsoluteNumberCalculatorTest.testFindAbsolute0.executor": "Run",
     "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.FizzBuzzTest.buzzTest.executor": "Run",
     "JUnit.FizzBuzzTest.executor": "Run",
     "JUnit.FizzBuzzTest.testFizz3.executor": "Run",
+    "JUnit.NextDayCalculatorTest.executor": "Run",
+    "JUnit.NextDayCalculatorTest.getNextDay6.executor": "Run",
+    "JUnit.SimpleCalculatorTest.executor": "Run",
+    "JUnit.SimpleCalculatorTest.testAdd1And0.executor": "Run",
     "JUnit.TennisGameTest.executor": "Run",
+    "JUnit.TriangleClassifierTest.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2",
     "node.js.detected.package.eslint": "true",
@@ -89,86 +94,82 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2/DmCleanCode2/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/nguyenhuutrang/Documents/Codegym/JAVA/module2/ArrayMax/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CleanCode" />
+      <recent name="$PROJECT_DIR$/ThuatToanTimKiem" />
+      <recent name="$PROJECT_DIR$/JavaCollectionFramework" />
+      <recent name="$PROJECT_DIR$/DSAp2" />
+      <recent name="$PROJECT_DIR$/DSA" />
+      <recent name="$PROJECT_DIR$/TestCasee" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SimpleCalculatorTest.testAdd1And0">
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="login.Login" />
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Binary Search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ArrayMax" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SortChar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AlgorithmComplexity" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
       <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="login.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DemoCleanCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DmCleanCode2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleCalculatorTest.testAdd1And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="module2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorTest" />
-      <option name="METHOD_NAME" value="testAdd1And0" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codegym.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codegym" />
-      <option name="MAIN_CLASS_NAME" value="com.codegym.TennisGameTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SimpleCalculatorTest.testAdd1And0" />
-        <item itemvalue="Application.Login" />
-        <item itemvalue="JUnit.TennisGameTest" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,12 +197,30 @@
       <workItem from="1718330928952" duration="12099000" />
       <workItem from="1718429149437" duration="1594000" />
       <workItem from="1718453576053" duration="26626000" />
-      <workItem from="1718586238577" duration="41774000" />
+      <workItem from="1718586238577" duration="43073000" />
+      <workItem from="1718685340430" duration="15235000" />
+      <workItem from="1718781561698" duration="17532000" />
+      <workItem from="1718853592790" duration="35222000" />
+      <workItem from="1718960134320" duration="5740000" />
+      <workItem from="1719063871418" duration="11979000" />
+      <workItem from="1719126220943" duration="11827000" />
+      <workItem from="1719193572962" duration="26493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -225,6 +244,36 @@
           <url>file://$PROJECT_DIR$/Employee Management/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestCasee/Abs/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestCasee/NextDayCalculator/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestCasee/TriangleClassifier/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestCasee/FizzBuzz/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSAp2/QueueP3/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSAp2/MyStackP2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
