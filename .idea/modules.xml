@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/AlgorithmComplexity/AlgorithmComplexity.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/AlgorithmComplexity/AlgorithmComplexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" filepath="$PROJECT_DIR$/Animal-interfaceEdible/Animal-interfaceEdible.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA/AraayList/AraayList.iml" filepath="$PROJECT_DIR$/DSA/AraayList/AraayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Debug/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.iml" filepath="$PROJECT_DIR$/Exception Debug/ArrayIndexOutOfBoundsException/ArrayIndexOutOfBoundsException.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/ArrayList- LinkedList/ArrayList- LinkedList.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/ArrayList- LinkedList/ArrayList- LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/ArrayMax/ArrayMax.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/ArrayMax/ArrayMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/Binary Search/Binary Search.iml" />
@@ -19,7 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" filepath="$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Debug/Exception Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Exception Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" />
