@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Count/Count.iml" filepath="$PROJECT_DIR$/Threading/Count/Count.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" filepath="$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Debug/Exception Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Exception Debug.iml" />
@@ -47,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Queue/Queue.iml" filepath="$PROJECT_DIR$/DSAp2/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/RacingCars/RacingCars.iml" filepath="$PROJECT_DIR$/Threading/RacingCars/RacingCars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Threading/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" />
@@ -58,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Students/Students.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Students/Students.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" filepath="$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" filepath="$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
