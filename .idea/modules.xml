@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP2/QueueP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" filepath="$PROJECT_DIR$/DSAp2/QueueP3/QueueP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/RacingCars/RacingCars.iml" filepath="$PROJECT_DIR$/Threading/RacingCars/RacingCars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resizeable/Resizeable.iml" filepath="$PROJECT_DIR$/Resizeable/Resizeable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Threading/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" />
@@ -64,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" filepath="$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/ValidateEmail/ValidateEmail.iml" filepath="$PROJECT_DIR$/Regex/ValidateEmail/ValidateEmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
     </modules>
