@@ -65,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" filepath="$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/ValidateAccount/ValidateAccount.iml" filepath="$PROJECT_DIR$/Regex/ValidateAccount/ValidateAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/ValidateEmail/ValidateEmail.iml" filepath="$PROJECT_DIR$/Regex/ValidateEmail/ValidateEmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
