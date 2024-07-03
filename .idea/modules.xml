@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/Colorable/Colorable.iml" filepath="$PROJECT_DIR$/Colorable/Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Comparable-Comparator/Comparable-Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Count/Count.iml" filepath="$PROJECT_DIR$/Threading/Count/Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/CrawlListSong/CrawlListSong.iml" filepath="$PROJECT_DIR$/Regex/CrawlListSong/CrawlListSong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/CrawlNews/CrawlNews.iml" filepath="$PROJECT_DIR$/Regex/CrawlNews/CrawlNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" filepath="$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Debug/Exception Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Exception Debug.iml" />
@@ -66,7 +68,9 @@
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/TestCasee/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/ValidateAccount/ValidateAccount.iml" filepath="$PROJECT_DIR$/Regex/ValidateAccount/ValidateAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/ValidateClassName/ValidateClassName.iml" filepath="$PROJECT_DIR$/Regex/ValidateClassName/ValidateClassName.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/ValidateEmail/ValidateEmail.iml" filepath="$PROJECT_DIR$/Regex/ValidateEmail/ValidateEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/ValidatePhoneNum/ValidatePhoneNum.iml" filepath="$PROJECT_DIR$/Regex/ValidatePhoneNum/ValidatePhoneNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/loopJava/loopJava.iml" filepath="$PROJECT_DIR$/loopJava/loopJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
     </modules>
