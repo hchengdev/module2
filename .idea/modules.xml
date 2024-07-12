@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/ArrayMax/ArrayMax.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/ArrayMax/ArrayMax.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/Binary Search/Binary Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatten/BookSingleton/BookSingleton.iml" filepath="$PROJECT_DIR$/DesignPatten/BookSingleton/BookSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Bracket/Bracket.iml" filepath="$PROJECT_DIR$/DSAp2/Bracket/Bracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/BubbleSortByStep/BubbleSortByStep.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/BubbleSortByStep/BubbleSortByStep.iml" />
@@ -25,7 +26,11 @@
       <module fileurl="file://$PROJECT_DIR$/Regex/CrawlNews/CrawlNews.iml" filepath="$PROJECT_DIR$/Regex/CrawlNews/CrawlNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" filepath="$PROJECT_DIR$/DSAp2/Decimal/Decimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatten/DesignPatten.iml" filepath="$PROJECT_DIR$/DesignPatten/DesignPatten.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Debug/Exception Debug.iml" filepath="$PROJECT_DIR$/Exception Debug/Exception Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPattern/FacadeDesignPattern/FacadeDesignPattern.iml" filepath="$PROJECT_DIR$/StructuralDesignPattern/FacadeDesignPattern/FacadeDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatten/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/DesignPatten/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/Fan/Fan.iml" filepath="$PROJECT_DIR$/OopJava/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/TestCasee/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/DSAp2/HashMap/HashMap.iml" />
@@ -45,6 +50,8 @@
       <module fileurl="file://$PROJECT_DIR$/DSAp2/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/DSAp2/Palindrome/Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" filepath="$PROJECT_DIR$/Point-MoveablePoint/Point-MoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point2D-Point3D/Point2D-Point3D.iml" filepath="$PROJECT_DIR$/Point2D-Point3D/Point2D-Point3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPattern/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/StructuralDesignPattern/Proxy Pattern/Proxy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPattern/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/StructuralDesignPattern/ProxyPattern/ProxyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OopJava/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" filepath="$PROJECT_DIR$/QuanLyNv/QuanLyNv.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" filepath="$PROJECT_DIR$/OopJava/QuanLySv/QuanLySv.iml" />
@@ -57,12 +64,16 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Threading/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatten/BookSingleton/Shapee/Shapee.iml" filepath="$PROJECT_DIR$/DesignPatten/BookSingleton/Shapee/Shapee.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanTimKiem/SortChar/SortChar.iml" filepath="$PROJECT_DIR$/ThuatToanTimKiem/SortChar/SortChar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Method/Static Method.iml" filepath="$PROJECT_DIR$/Static Method/Static Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticProperty/StaticProperty.iml" filepath="$PROJECT_DIR$/StaticProperty/StaticProperty.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OopJava/StopWatch/StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPattern/StructuralDesignPattern.iml" filepath="$PROJECT_DIR$/StructuralDesignPattern/StructuralDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFramework/Students/Students.iml" filepath="$PROJECT_DIR$/JavaCollectionFramework/Students/Students.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatten/TaxiPool/TaxiPool.iml" filepath="$PROJECT_DIR$/DesignPatten/TaxiPool/TaxiPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" filepath="$PROJECT_DIR$/TestCasee/TestCase/TestCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThiThucHanh/ThiThucHanh.iml" filepath="$PROJECT_DIR$/ThiThucHanh/ThiThucHanh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" filepath="$PROJECT_DIR$/Threading/ThreardDemo/ThreardDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
