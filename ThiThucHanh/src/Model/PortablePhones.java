@@ -4,52 +4,25 @@ import Interface.TelephoneAbstract;
 
 public class PortablePhones extends TelephoneAbstract {
     private String portableCountry;
-    private boolean status;
+    private String status;
 
-    public PortablePhones(int id, String name, double price, int quantity, String manufacturer, String portableCountry, boolean status) {
+    @Override
+    public String toString() {
+        return "PortablePhones{" +
+                "portableCountry='" + portableCountry + '\'' +
+                ", status=" + status +
+                ", id=" + id +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", quantity=" + quantity +
+                ", manufacturer='" + manufacturer + '\'' +
+                '}';
+    }
+
+    public PortablePhones(int id, String name, double price, int quantity, String manufacturer, String portableCountry, String status) {
         super(id, name, price, quantity, manufacturer);
         this.portableCountry = portableCountry;
         this.status = status;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
-
-    public int getQuantity() {
-        return quantity;
-    }
-
-    public void setQuantity(int quantity) {
-        this.quantity = quantity;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public void setManufacturer(String manufacturer) {
-        this.manufacturer = manufacturer;
     }
 
     public String getPortableCountry() {
@@ -60,11 +33,11 @@ public class PortablePhones extends TelephoneAbstract {
         this.portableCountry = portableCountry;
     }
 
-    public boolean isStatus() {
+    public String getStatus() {
         return status;
     }
 
-    public void setStatus(boolean status) {
+    public void setStatus(String status) {
         this.status = status;
     }
 }

@@ -27,7 +27,7 @@ public class FileProcessing {
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 
             for (GenuinePhone gp : gpList) {
-                String line = gp.getId() + "," + gp.getName() + "," + gp.getPrice() + "," + gp.getQuantity() + "," + gp.getManufacturer() + "," + gp.getWarrantyCoverage();
+                String line = gp.getId() + "," + gp.getName() + "," + gp.getPrice() + "," + gp.getQuantity() + "," + gp.getManufacturer()+ "," + gp.getWarrantyPeriod() + "," + gp.getWarrantyCoverage();
                 bufferedWriter.write(line);
                 bufferedWriter.newLine();
             }
@@ -83,7 +83,7 @@ public class FileProcessing {
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 
             for (PortablePhones pp : ppList) {
-                String line = pp.getId() + "," + pp.getName() + "," + pp.getPrice() + "," + pp.getQuantity() + "," + pp.getManufacturer() + "," + pp.getPortableCountry() + "," + pp.isStatus();
+                String line = pp.getId() + "," + pp.getName() + "," + pp.getPrice() + "," + pp.getQuantity() + "," + pp.getManufacturer() + "," + pp.getPortableCountry() + "," + pp.getStatus();
                 bufferedWriter.write(line);
                 bufferedWriter.newLine();
             }
@@ -119,7 +119,7 @@ public class FileProcessing {
                 int quantity = Integer.parseInt(row[3]);
                 String manufacturer = row[4];
                 String portableCountry = row[5];
-                boolean status = Boolean.parseBoolean(row[6]);
+                String status = row[6];
                 PortablePhones pp = new PortablePhones(id, name, price, quantity, manufacturer, portableCountry, status);
 
                 this.ppList.add(pp);
